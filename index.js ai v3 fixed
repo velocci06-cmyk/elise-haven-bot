@@ -49,7 +49,7 @@ const geminiCooldowns = new Map();
 const AI_GLOBAL_CHANNEL_ID = "1547717687159955548";
 const GEMINI_MODELS = [
     
-  "gemini-3.6-flash"
+  "gemini-3.5-flash-lite"
 ];
 const AI_COOLDOWN_MS = 8000;
 
